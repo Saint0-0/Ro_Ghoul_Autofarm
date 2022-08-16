@@ -1,10 +1,3 @@
---[[ Saint X Ro-Ghoul Autofarm ]]
-
-getgenv().Hook = "" --[[ Your Webhook Here ]]--
-getgenv().Side = "CCG" --[[ Can either be "CCG" or "Ghoul". ]]--
-getgenv().Ping = true --[[ If set to true, you will receive pings when Gyakusatsu has been found/killed. ]]--
-
-
 shared.JsAg7QNrWqqXstQWwFTq = warn("Success.")
 local NT = loadstring(game:HttpGet("https://raw.githubusercontent.com/Jxereas/UI-Libraries/main/notification_gui_library.lua", true))()
 local http_request = syn.request or request or (http and http.request)
