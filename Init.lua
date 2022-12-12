@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Discontinued.")
+game.Players.LocalPlayer:Kick("Revamping")
