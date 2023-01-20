@@ -9,12 +9,10 @@
 > Kindly review this information prior to running the script in order to prevent any unnecessary inquiries.
 
 ### Guide
-```
-Upon execution, the script will continuously server hop untill it finds "Gyakusatsu". Once found, the script will then load the autofarm UI and enable the farm.
-You will then be able to select your desired stage and skills. By default, no webhook is stored thus you will have to put your own webhook in on the settings section.
-For the wallpaper, you will have to navigate to your executors "workspace" folder and find the folder named "Exulus" then navigate to the folder named "Wallpaper Folder".
-You can then place your images in that folder and reference the image in the settings section of the UI EG: I have a file called Exulus.png in the "Wallpaper Folder" folder and I want to set it to the wallpaper in the script. I then input the EXACT name of the file into the textbox in the UI which then changes my wallpaper to the wallpaper I wanted and saves it.
-```
+<p>
+The script will continuously search for the server "Gyakusatsu" and once found, it will load the autofarm UI and enable farming. You can select your desired stage and skills. By default, no webhook is stored, so you will need to input your own in the settings section. To change the wallpaper, navigate to the "workspace" folder and find the "Exulus" folder, then the "Wallpaper Folder" and place your desired image there. Reference the image in the settings section of the UI. An example of how to change the wallpaper would be to locate the image file "Exulus.png" and input the exact file name into the designated textbox within the user interface.
+</p>
+
 > **Note**\
 > Your webhook will be automatically saved so no need for re entering it.\
 > Your wallpaper will be automatically saved so no need for re entering it.\
