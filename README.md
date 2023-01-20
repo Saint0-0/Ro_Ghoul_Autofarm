@@ -19,14 +19,14 @@ within the user interface.
 ```
 
 > **Note**\
-> Your webhook will be automatically saved so no need for re entering it.\
-> Your wallpaper will be automatically saved so no need for re entering it.\
+> Your webhook will be automatically saved so no need to re-entering it.\
+> Your wallpaper will be automatically saved so no need to re-entering it.\
 > Your selected stage and skills will be saved so no need for toggling them over and over again.
 
 # Welcome to Exulus!
 
 > **Note**
-> Please put this in your autoexecute folder.
+> Please put this in your "autoexecute" folder.
 
 ```lua
 print("Hi")
