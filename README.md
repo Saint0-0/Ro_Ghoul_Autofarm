@@ -31,3 +31,6 @@ within the user interface.
 ```lua
 print("Hi")
 ```
+
+### Discord
+[Discord Server](https://dsc.gg/SaintX)
