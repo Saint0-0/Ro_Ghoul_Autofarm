@@ -5,10 +5,17 @@
   <img width="400" height="150" src="https://cdn.discordapp.com/attachments/1051808795355005029/1062049790961131530/image.png">
 </p>
 
-<div class="box">
-  <link rel="stylesheet" a href="https://raw.githubusercontent.com/Saint0-0/Ro_Ghoul_Autofarm/main/Card-css.css">
-  <span></span>
-  <div class="content">
-    <h2>Hover me!</h2>
-  </div>
-</div>
+> **Attention**
+> Kindly review this information prior to running the script in order to prevent any unnecessary inquiries.
+
+<h1>Welcome</h1>
+
+<style>
+h1 {
+    background-image: url(./image.gif);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+</style>
