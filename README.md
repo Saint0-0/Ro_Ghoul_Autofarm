@@ -34,7 +34,27 @@
 > Please put this in your "autoexecute" folder.
 
 ```lua
-print("Hi")
+--[[
+-----------------------------------------------------------------------------------------------------------------------------
+
+🧟‍♂️[Side]
+
+-Choices = "CCG" or "Ghoul"
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+🔔[Ping] = true or false
+
+(If you pick true for ping, you will get webhook notifications for when gyakusatsu is found and when it is killed as well as the amount of sacs you have)
+(If you pick false for ping, you will not receive webhook notifications.)
+
+-----------------------------------------------------------------------------------------------------------------------------
+]]
+
+getgenv().Side = "CCG"
+getgenv().Ping = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Saint0-0/Ro_Ghoul_Autofarm/main/Main.lua"))()
 ```
 # Additional information
 
