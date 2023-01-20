@@ -37,10 +37,10 @@
 print("Hi")
 ```
 
-#### Discord
+### Discord
 [Discord Server](https://dsc.gg/SaintX)
 
-#### Credits
+### Credits
 > **Note**
 > Some of the code from this repository was used to make this work
 
