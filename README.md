@@ -36,6 +36,7 @@
 ```lua
 print("Hi")
 ```
+# Additional information
 
 ### Discord
 [Discord Server](https://dsc.gg/SaintX)
