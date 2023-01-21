@@ -24,8 +24,8 @@
 ```
 
 > **Note**\
-> Your webhook will be automatically saved so no need to re-entering it.\
-> Your wallpaper will be automatically saved so no need to re-entering it.\
+> Your webhook will be automatically saved so no need to re-enter it.\
+> Your wallpaper will be automatically saved so no need to re-enter it.\
 > Your selected stage and skills will be saved so no need for toggling them over and over again.
 
 # Welcome to Exulus!
