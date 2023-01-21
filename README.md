@@ -10,7 +10,7 @@
 
 ### Guide
 ```
-○ The script will continuously search for the server "Gyakusatsu" and once found, it will load the autofarm UI and enable farming.
+○ The script will continuously search for a server with "Gyakusatsu" and once found, it will load the autofarm UI and enable farming.
 
 ○ You can select your desired stage and skills.
 
