@@ -62,7 +62,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Saint0-0/Ro_Ghoul_Aut
 [Discord Server](https://dsc.gg/SaintX)
 
 ### Credits
-> **Note**
+> **Note**\
 > Some of the code from this repository was used to make this work
 
 [z4gs](https://github.com/z4gs/scripts)
