@@ -12,7 +12,7 @@
 ```
 ○ The script will continuously search for a server with "Gyakusatsu" and once found, it will load the autofarm UI and enable farming.
 
-○ You can select your desired stage and skills.
+○ You can then select your desired stage and skills.
 
 ○ By default, no webhook is stored, so you will need to input your own in the settings section.
 
