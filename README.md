@@ -30,8 +30,8 @@
 
 # Welcome to Exulus!
 
-> **Note**
-> \Please put this in your "autoexecute" folder.
+> **Note**\
+> Please put this in your "autoexecute" folder.
 
 ```lua
 --[[
