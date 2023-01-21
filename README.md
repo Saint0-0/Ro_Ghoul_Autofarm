@@ -20,7 +20,7 @@
 
 ○ Reference the image in the settings section of the UI.
 
-○ An example of how to change the wallpaper would be to locate the image file "Exulus.png" and input the exact file name into the designated textbox within the user interface.
+○ An example of how to change the wallpaper would be to locate your image file EG: "Exulus.png" and input the exact file name into the designated textbox within the user interface.
 ```
 
 > **Note**\
