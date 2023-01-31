@@ -2,7 +2,7 @@
 ### Ro Ghoul Autofarm
 
 <p align="center">
-  <img width="400" height="150" src="https://cdn.discordapp.com/attachments/1051808795355005029/1062049790961131530/image.png">
+  <img width="400" height="150" src="https://cdn.discordapp.com/attachments/946300197489758219/1069997586552987739/DALLE_2023-01-31_18.06.28_-_3d_synthwave_kaneki_from_the_anime_ro_ghoul_in_a_city.png">
 </p>
 
 > **Warning**\
