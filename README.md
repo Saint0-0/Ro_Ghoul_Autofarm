@@ -1,7 +1,9 @@
 # Exulus
 ### Ro Ghoul Autofarm
 
+<p>
 <img align="center" width="500" height="200" src="https://cdn.discordapp.com/attachments/946300197489758219/1070226087751209011/download.png">
+</P
 
 > **Warning**\
 > Kindly review this information prior to running the script in order to prevent any unnecessary inquiries.
