@@ -1,8 +1,8 @@
 # Exulus
 ### Ro Ghoul Autofarm
 
-<p>
-<img align="center" width="500" height="200" src="https://cdn.discordapp.com/attachments/946300197489758219/1070226087751209011/download.png">
+<p align="center">
+<img width="500" height="200" src="https://cdn.discordapp.com/attachments/946300197489758219/1070226087751209011/download.png">
 </p>
 
 > **Warning**\
