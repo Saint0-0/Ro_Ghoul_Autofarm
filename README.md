@@ -45,8 +45,8 @@
 
 🔔[Ping] = true or false
 
-(If you pick true for ping, you will get webhook notifications for when gyakusatsu is found and when it is killed as well as the amount of sacs you have)
-(If you pick false for ping, you will not receive webhook notifications.)
+(If you pick true for ping, you will get webhook notifications with an @everyone attatched when gyakusatsu is found and when it is killed as well as the amount of sacs you have)
+(If you pick false for ping, you will not receive webhook notifications with an @everyone attatched.)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ]]
