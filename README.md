@@ -2,7 +2,7 @@
 ### Ro Ghoul Autofarm
 
 <p align="center">
-<img width="500" height="200" src="https://cdn.discordapp.com/attachments/946300197489758219/1070226087751209011/download.png">
+<img width="500" height="200" src="https://cdn.discordapp.com/attachments/967432584005046272/1074954313501245522/download.png">
 </p>
 
 > **Warning**\
