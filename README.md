@@ -2,7 +2,7 @@
 ### Ro Ghoul Autofarm
 
 <p align="center">
-<img width="500" height="200" src="https://cdn.discordapp.com/attachments/967432584005046272/1074954313501245522/download.png">
+<img width="900" height="200" src="https://cdn.discordapp.com/attachments/967432584005046272/1074954313501245522/download.png">
 </p>
 
 > **Warning**\
@@ -36,26 +36,37 @@
 ```lua
 --[[
 
-Discord: https://dsc.gg/SaintX
+📞[Discord] https://dsc.gg/SaintX
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 🧟‍♂️[Side]
 
--Choices = "CCG" or "Ghoul"
+[-] Choices = "CCG" or "Ghoul"
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-🔔[Ping] = true or false
+🔔[Ping]
 
-(If you pick true for ping, you will get webhook notifications with an @everyone attatched when gyakusatsu is found and when it is killed as well as the amount of sacs you have)
-(If you pick false for ping, you will not receive webhook notifications with an @everyone attatched.)
+[-] Choices = true or false
+
+(If you pick true for ping, you will get webhook notifications for when gyakusatsu is found and when it is killed as well as the amount of sacs you have)
+(If you pick false for ping, you will not receive webhook notifications.)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+👹[Gyakusatsu Finder]
+
+[-] Choices = true or false
+
+(If set to true, the script will find gyakusatsu, select the side you've set (CCG or Ghoul) and send a notification to your webhook without executing the autofarm)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ]]
 
 getgenv().Side = "CCG"
 getgenv().Ping = true
+getgenv().Gyakusatsu_Finder = false
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Saint0-0/Ro_Ghoul_Autofarm/main/Main.lua"))()
 ```
