@@ -1,4 +1,5 @@
 # Exulus
+# Discontinued until further notice, main discord server has been deleted. Will probably make another later
 ### Ro Ghoul Autofarm
 
 <p align="center">
