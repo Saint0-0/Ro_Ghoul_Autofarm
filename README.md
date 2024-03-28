@@ -1,5 +1,5 @@
 # Exulus
-# Discontinued until further notice, main discord server has been deleted. Will probably make another later
+## Discontinued until further notice (The script may still work but I won't be providing any updates/fixes for now), main discord server has been deleted. Will probably make another later
 ### Ro Ghoul Autofarm
 
 <p align="center">
