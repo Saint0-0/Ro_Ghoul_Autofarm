@@ -1,5 +1,7 @@
 # Exulus
 ## Discontinued until further notice (The script may still work but I won't be providing any updates/fixes for now), main discord server has been deleted. Will probably make another later
+
+### Update (27/6/2026): Will begin a complete rework this year. Maybe in November idk
 ### Ro Ghoul Autofarm
 
 <p align="center">
