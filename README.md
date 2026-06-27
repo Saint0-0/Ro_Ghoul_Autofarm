@@ -6,7 +6,7 @@
 ### Ro Ghoul Autofarm
 
 <p align="center">
-<img width="900" height="200" src="[https://cdn.discordapp.com/attachments/967432584005046272/1074954313501245522/download.png](https://media.discordapp.net/attachments/856513326812626944/1520357302383804536/gradient-background-wave-minimalist-style_698780-908.png?ex=6a40e693&is=6a3f9513&hm=3cbde08fb667746bd532915b0076c15c9d7e3fe10a47c3aa762878f6568c25ea&=&format=webp&quality=lossless)">
+<img width="900" height="200" src="https://cdn.discordapp.com/attachments/967432584005046272/1074954313501245522/download.png">
 </p>
 
 > **Warning**\
