@@ -1,5 +1,6 @@
 # Exulus
-## Discontinued until further notice (The script may still work but I won't be providing any updates/fixes for now)
+
+# Currently not functional, rework soon.
 
 ### Update (27/6/2026): Will begin a complete rework this year. Maybe in November idk. Discord server is back up.
 
